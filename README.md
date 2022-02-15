@@ -5,4 +5,4 @@ Download all python files in the TowersOfHanoi_CA folder into the same directory
 See the following for the rules:
 https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
-The <stack> and <node> classes were also written to supplement the driver class. 
+The stack and node classes were also written to supplement the driver class. 
